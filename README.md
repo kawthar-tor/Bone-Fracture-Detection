@@ -37,8 +37,7 @@ not as a replacement for professional medical judgment.
 - Provide a reproducible and deployable ML pipeline
 ## 🗂️ Repository Structure
 
-Fracture_Detector/
-│
+Fracture_Detector
 ├── Bone_Fracture_Classifier.ipynb # Model training and experimentation
 ├── main.py # Inference script
 ├── Dockerfile # Docker image definition
