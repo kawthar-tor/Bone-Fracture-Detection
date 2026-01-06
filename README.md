@@ -35,19 +35,9 @@ not as a replacement for professional medical judgment.
 - Apply deep learning techniques to medical imaging data
 - Achieve high classification accuracy on validation data
 - Provide a reproducible and deployable ML pipeline
-## 🗂️ Repository Structure
-
-Fracture_Detector/
-│
-├── Bone_Fracture_Classifier.ipynb # Model training and experimentation
-├── main.py # Inference script
-├── Dockerfile # Docker image definition
-├── docker-compose.yml # Container orchestration
-├── README.md # Project documentation
----
 
 ## 📘 File Descriptions
-
+---
 ### `Bone_Fracture_Classifier.ipynb`
 - Loads and preprocesses X-ray images
 - Defines and trains a CNN-based fracture classifier
